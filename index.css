@@ -1,5 +1,9 @@
 @import url('./vendor/normalize.css');
 
+/*шрифты*/
+
+@import url('./vendor/fonts/fonts.css');
+
 /*общие правила для страницы*/
 
 @import url('./blocks/root/root.css');
@@ -54,10 +58,13 @@
 /*блок footer*/
 
 @import url('./blocks/footer/footer.css');
+@import url('./blocks/footer/__links/footer__links.css');
 @import url('./blocks/footer/__link/footer__link.css');
 @import url('./blocks/footer/__copyright/footer__copyright.css');
 
 
+
+
 //TODO: подключить шрифты
 //TODO: сгладить шрифты
-//TODO: заполнить карточки place 
+
