@@ -1,0 +1,12 @@
+.header {
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 28px 48px 58px 48px;
+  margin: auto;
+  max-width: 1280px;
+}
