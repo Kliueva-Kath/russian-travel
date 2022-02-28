@@ -10,3 +10,15 @@
   margin: auto;
   max-width: 1280px;
 }
+
+@media screen and (max-width: 1024px) {
+  .header {
+    padding: 28px 24px 48px 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+    padding: 16px 16px 48px 16px;
+  }
+}
