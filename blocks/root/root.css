@@ -1,10 +1,7 @@
 .page {
   background: #2a2c2f;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
   min-width: 320px;
+  max-width: 1280px;
 }
-
 
 //TODO: ширина на 320px????
