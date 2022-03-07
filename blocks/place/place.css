@@ -1,13 +1,17 @@
 .place {
-  margin: 0 148px 80px 148px;
   max-width: 984px;
+  padding-left: 148px;
+  padding-bottom: 80px;
   display: grid;
   grid-template-columns: repeat(2, minmax(min-content, max-content));
-  grid-template-rows: repeat(4, minmax(min-content, max-content));
+  grid-template-rows: repeat(2, min-content);
   grid-template-areas:
-    "title url"
-    "title link"
-    "image paragraph1"
-    "image paragraph2";
-  align-items: flex-end;
+    "title website"
+    "image paragraphs";
+  column-gap: 40px;
+  row-gap: 48px;
+}
+
+.place:last-of-type {
+  padding-bottom: 92px;
 }
