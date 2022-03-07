@@ -1,4 +1,5 @@
 .lead__title {
+  display: block;
   width: 720px;
   font-family: "Inter";
   font-weight: 900;

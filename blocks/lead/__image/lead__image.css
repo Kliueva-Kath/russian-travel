@@ -2,6 +2,7 @@
   width: 100%;
   max-width: 984px;
   margin: 0 148px;
+  object-fit: cover;
 }
 
 //TODO: box sizing??
