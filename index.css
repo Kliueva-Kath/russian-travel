@@ -44,6 +44,7 @@
 /*блок photo-grid*/
 
 @import url("./blocks/photo-grid/photo-grid.css");
+@import url("./blocks/photo-grid/photo-grid__container/photo-grid__container.css");
 @import url("./blocks/photo-grid/__item/photo-grid__item.css");
 
 /*блок places*/
