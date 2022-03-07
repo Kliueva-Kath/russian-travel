@@ -1,0 +1,11 @@
+.place__link {
+  margin: 0 0 48px 40px;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.22;
+  text-decoration-line: underline;
+  color: #ffffff;
+  grid-area: link;
+  align-self: flex-start;
+}
