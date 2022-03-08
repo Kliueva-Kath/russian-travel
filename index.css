@@ -64,8 +64,7 @@
 /*блок cover*/
 
 @import url("./blocks/cover/cover.css");
-@import url("./blocks/cover/__background/cover__background.css");
-@import url("./blocks/cover/__overlay/cover__overlay.css");
+@import url("./blocks/cover/__content/cover__content.css");
 @import url("./blocks/cover/__subtitle/cover__subtitle.css");
 @import url("./blocks/cover/__title/cover__title.css");
 
