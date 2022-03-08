@@ -1,6 +1,6 @@
 .place {
   max-width: 984px;
-  padding-left: 148px;
+  margin: 0 auto;
   padding-bottom: 80px;
   display: grid;
   grid-template-columns: repeat(2, minmax(min-content, max-content));
