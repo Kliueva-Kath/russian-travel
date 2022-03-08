@@ -1,3 +1,10 @@
 .photo-grid__item {
   width: 100%;
+  position: relative;
+}
+
+.photo-grid__item::before {
+  display: block;
+  content: "";
+  padding-bottom: 75%;
 }
