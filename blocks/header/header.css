@@ -4,7 +4,20 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  padding-top: 28px;
   margin: 0 auto;
   max-width: 1184px;
+  padding: 28px 48px 0;
+}
+
+@media screen and (max-width: 1000px) {
+  .header {
+    padding-left: 28px;
+    padding-right: 28px;
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
 }
