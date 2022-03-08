@@ -4,9 +4,8 @@
   margin: 18px 0 6px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 550px) {
   .header__lang-links {
-    margin-top: 14px;
-    margin-bottom: 8px;
+    margin: 14px 0 8px;
   }
 }
