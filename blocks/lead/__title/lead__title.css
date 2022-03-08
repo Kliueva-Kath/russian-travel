@@ -1,11 +1,11 @@
 .lead__title {
   display: block;
-  width: 720px;
+  max-width: 720px;
   font-family: "Inter", "Arial", sans-serif;
   font-weight: 900;
   font-size: 96px;
   line-height: 1.04;
   color: white;
-  margin: 0 auto 32px auto;
+  margin: 62px auto 32px auto;
   text-align: center;
 }

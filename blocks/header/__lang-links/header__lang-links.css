@@ -1,4 +1,5 @@
 .header__lang-links {
   list-style: none;
   display: flex;
+  margin: 0;
 }

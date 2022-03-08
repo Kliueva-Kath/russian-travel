@@ -8,4 +8,5 @@
   color: #ffffff;
   margin: 0 auto 64px auto;
   display: block;
+  max-width: 640px;
 }
