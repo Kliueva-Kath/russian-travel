@@ -8,3 +8,21 @@
   margin: 0;
   max-width: 690px;
 }
+
+@media screen and (max-width: 900px) {
+  .intro__text {
+    max-width: 720px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .intro__text {
+    max-width: 500px;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .intro__text {
+    max-width: 288px;
+  }
+}
