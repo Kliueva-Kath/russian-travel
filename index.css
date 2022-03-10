@@ -27,10 +27,11 @@
 /*блок lead*/
 
 @import url("./blocks/lead/lead.css");
-@import url("./blocks/lead/__caption/lead__caption.css");
-@import url("./blocks/lead/__image/lead__image.css");
-@import url("./blocks/lead/__subtitle/lead__subtitle.css");
 @import url("./blocks/lead/__title/lead__title.css");
+@import url("./blocks/lead/__subtitle/lead__subtitle.css");
+@import url("./blocks/lead/__image-container/lead__image-container.css");
+@import url("./blocks/lead/__image/lead__image.css");
+@import url("./blocks/lead/__caption/lead__caption.css");
 
 /*блок intro*/
 
@@ -44,14 +45,19 @@
 /*блок photo-grid*/
 
 @import url("./blocks/photo-grid/photo-grid.css");
+@import url("./blocks/photo-grid/photo-grid__container/photo-grid__container.css");
 @import url("./blocks/photo-grid/__item/photo-grid__item.css");
+@import url("./blocks/photo-grid/__image/photo-grid__image.css");
 
 /*блок places*/
 
 @import url("./blocks/places/places.css");
 @import url("./blocks/place/place.css");
 @import url("./blocks/place/__image/place__image.css");
+@import url("./blocks/place/__paragraphs/place__paragraphs.css");
 @import url("./blocks/place/__paragraph/place__paragraph.css");
+@import url("./blocks/place/__paragraph/_num/place__paragraph_num_1.css");
+@import url("./blocks/place/__paragraph/_num/place__paragraph_num_2.css");
 @import url("./blocks/place/__title/place__title.css");
 @import url("./blocks/place/__website/place__website.css");
 @import url("./blocks/place/__link/place__link.css");
@@ -60,8 +66,7 @@
 /*блок cover*/
 
 @import url("./blocks/cover/cover.css");
-@import url("./blocks/cover/__background/cover__background.css");
-@import url("./blocks/cover/__overlay/cover__overlay.css");
+@import url("./blocks/cover/__content/cover__content.css");
 @import url("./blocks/cover/__subtitle/cover__subtitle.css");
 @import url("./blocks/cover/__title/cover__title.css");
 

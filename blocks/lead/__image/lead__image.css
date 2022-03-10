@@ -1,7 +1,7 @@
 .lead__image {
+  width: 100%;
+  max-width: 984px;
   object-fit: cover;
+  box-sizing: border-box;
+  margin-bottom: 8px;
 }
-
-//TODO: сделать высоту в 62.5% от ширины
-//TODO: сделать так, чтобы изображение не растягивалось в стороны до бесконечности
-//TODO: box sizing??

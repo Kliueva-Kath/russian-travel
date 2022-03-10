@@ -1,24 +1,22 @@
 .header {
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Inter", "Arial", sans-serif;
   font-weight: 400;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  padding: 28px 48px 58px 48px;
-  margin: auto;
-  max-width: 1280px;
+  align-items: flex-end;
+  margin: 0 auto;
+  max-width: 1184px;
+  padding: 28px 48px 0;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1000px) {
   .header {
-    padding: 28px 24px 48px 24px;
+    padding: 28px 28px 0;
   }
 }
 
 @media screen and (max-width: 767px) {
   .header {
-    padding: 16px 16px 48px 16px;
+    padding: 16px 16px 0;
   }
 }
