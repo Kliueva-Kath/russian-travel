@@ -6,3 +6,9 @@
   color: #ffffff;
   margin: 0;
 }
+
+@media screen and (max-width: 650px) {
+  .footer__copyright {
+    line-height: 1;
+  }
+}

@@ -3,7 +3,22 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-top: 92px;
-  padding-bottom: 24px;
+  padding: 92px 48px 24px;
   margin: 0 auto;
+}
+
+@media screen and (max-width: 900px) {
+  .footer {
+    padding: 88px 24px 24px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .footer {
+    padding: 64px 16px 24px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 48px;
+  }
 }
