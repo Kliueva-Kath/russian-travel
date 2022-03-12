@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-**Проект можно посмотреть по ссылке:** [GitHub Pages](https://kliueva-kath.github.io/russian-travel/)
+**Проект можно посмотреть по ссылке на** [GitHub Pages](https://kliueva-kath.github.io/russian-travel/)
 
 ### Описание
 
