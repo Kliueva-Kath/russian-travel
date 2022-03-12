@@ -1,16 +1,22 @@
 .cover__content {
-  min-height: 740px;
   text-decoration: none;
   background-image: url("../../../images/cover/cover-trains.jpg");
   background-size: cover;
   display: flex;
   flex-direction: column;
-  position: relative;
+  /* абсолютное позиционирование - чтобы полностью растянуть контент на ширину и высоту блока */
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
   justify-content: center;
   align-items: center;
+  width: 100%;
 }
 
-.cover__content::before {
+/* псевдоэлемент для создания затемнения фона */
+
+.cover__content::after {
   content: "";
   width: 100%;
   position: absolute;
@@ -19,9 +25,12 @@
   left: 0;
   background: #2a2c2f;
   opacity: 0.3;
+  display: block;
 }
 
-.cover__content:hover::before {
+/* псевдоэлемент для создания затемнения при наведении мышкой */
+
+.cover__content:hover::after {
   content: "";
   width: 100%;
   position: absolute;
