@@ -3,3 +3,30 @@
   max-width: 460px;
   grid-area: image;
 }
+
+@media screen and (max-width: 1025px) {
+  .place__image {
+    max-width: 440px;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .place__image {
+    max-width: 340px;
+    min-width: 320px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .place__image {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  .place__image {
+    width: 100vw;
+    margin: 0;
+  }
+}
