@@ -10,3 +10,18 @@
   z-index: 1;
   margin: 0 0 32px 0;
 }
+
+@media screen and (max-width: 650px) {
+  .cover__title {
+    font-size: 46px;
+    line-height: 1.07;
+    margin-bottom: 16px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .cover__title {
+    font-size: 32px;
+    line-height: 1.09;
+  }
+}
