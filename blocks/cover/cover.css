@@ -2,6 +2,7 @@
   margin: 0 auto;
   position: relative;
   max-width: 1184px;
+  width: 100%;
 }
 
 /* задание относительной высоты блока в процентном соотношении */
