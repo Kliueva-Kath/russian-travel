@@ -7,3 +7,19 @@
   margin: 0;
   max-width: 460px;
 }
+
+@media screen and (max-width: 900px) {
+  .place__title {
+    font-size: 42px;
+    line-height: 1.1;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .place__title {
+    font-size: 32px;
+    line-height: 1.09;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}

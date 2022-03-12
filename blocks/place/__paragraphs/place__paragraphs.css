@@ -2,3 +2,10 @@
   max-width: 484px;
   grid-area: paragraphs;
 }
+
+@media screen and (max-width: 550px) {
+  .place__paragraphs {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
