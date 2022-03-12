@@ -4,6 +4,8 @@
   /* align-self: flex-end; */
 }
 
+//TODO: нужно ли
+
 @media screen and (max-width: 550px) {
   .place__website {
     margin-left: 16px;
