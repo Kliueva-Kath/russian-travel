@@ -16,4 +16,4 @@
 
 
 ###_Другие мои проекты_:  
--[Научиться учиться](https://kliueva-kath.github.io/how-to-learn/)
+1. [Научиться учиться](https://kliueva-kath.github.io/how-to-learn/)
