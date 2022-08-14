@@ -18,4 +18,4 @@
 
 1. [Научиться учиться](https://kliueva-kath.github.io/how-to-learn/)
 2. [Mesto](https://github.com/Kliueva-Kath/mesto/)
-3. [Premium Car Blog](https://github.com/Kliueva-Kath/premium-car-blog/)
+3. [Premium Car Blog](https://kliueva-kath.github.io/premium-car-blog/)
