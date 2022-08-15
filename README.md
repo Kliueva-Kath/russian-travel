@@ -18,5 +18,4 @@
 
 1. [Научиться учиться](https://kliueva-kath.github.io/how-to-learn/)
 2. [Mesto](https://github.com/Kliueva-Kath/mesto/)
-3. [Premium Car Blog](https://kliueva-kath.github.io/premium-car-blog/)
-4. [Mesto на React](https://kliueva-kath.github.io/mesto-react/)
+4. [Mesto на React](https://github.com/Kliueva-Kath/react-mesto-auth)
